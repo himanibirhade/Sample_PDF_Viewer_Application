@@ -6,7 +6,7 @@ The target audience for this guide can be a student, a professional, or simply a
 
 ## Overview
 
-A PDF (Portable Document Format) Viewer is a software application that enables you to open, view, and navigate PDF files. 
+The PDF (Portable Document Format) Viewer is a software application that enables you to open, view, and navigate PDF files. 
 PDFs are mainly used for distributing documents while retaining their formatting, arrangement, and information on various devices and operating systems.
 The PDF Viewer provides features, such as, zooming, searching, bookmarking, and even annotating PDF documents.
 
@@ -36,7 +36,7 @@ Ensure the following system requirements are met before installing the PDF Viewe
 | **RAM** | 2GB of RAM |
 | **Hard disk space** | 900MB and 1GB of available hard disk space for English and for other languages respectively |
 | **Monitor resolution** | 1024x768 screen resolution |
-| **Browser** | Google Chrome 105 or above | 
+| **Browser** | Internet Explorer 11 | 
 
 ### Downloading the Installer
 
@@ -53,7 +53,7 @@ This section describes how to download the installer for the PDF Viewer.
 This section describes how to run the installer for the PDF Viewer.
 
 To run the PDF Viewer installer:
-1. Navigate to the folder where the `PDFViewerInstaller.exe` for PDF Viewer was downloaded.
+1. Navigate to the folder where the `PDFViewerInstaller.exe` installer was downloaded.
 2. Run the `PDFViewerInstaller.exe` file. The `Welcome to the PDF Viewer Installation Wizard` screen appears.
 
 ### Configuring the Installation Settings
@@ -70,7 +70,7 @@ To configure the installation settings:
 3. Browse and select the location where you want to install the PDF Viewer.
    > It is recommended to use the default location, which is  `C:\Program Files\PDF Viewer`, to install the PDF Viewer.
 4. Click `Next`. The `Select the Additional Plug-ins` screen appears.
-5. Check the required plug-ins from the list.
+5. Select the required plug-ins from the list.
    > It is recommended to keep the default plug-ins.
 6. Click `Next`. The `Summary of the Configurations` screen appears.
 7. Verify the selected configurations. If any changes are required, then click `Previous` to update the configurations.
@@ -88,7 +88,7 @@ To uninstall the PDF Viewer from a Windows platform:
 3. Select the PDF Viewer application from the list of installed programs.
 4. Click `Uninstall`. A confirmation prompt appears.
 5. If you want to continue with the uninstallation, then click `Yes` else click `No` to abort the uninstallation.
-6. Check for any residual files at the location where the application was installed. Delete the files manually, if any.
+6. Check for any residual files at the location where the application was installed. Manually delete the residual files, if any.
 
  The PDF Viewer application is uninstalled successfully.
 
@@ -100,7 +100,7 @@ To uninstall the PDF Viewer from a Windows platform:
 After the successful installation of the PDF Viewer application, you can explore its features and enhanced functionalities mainly for annotating, visualizing, and distributing PDF documents.
 This section describes how to start interacting with the PDF Viewer application after its successful installation.
 
-To start interacting with the PDF Viewer:
+To launch the PDF Viewer:
 1. If you select the option to launch the application upon its successful installation, then the PDF Viewer will promptly launch with any manual intervention.
 2. Alternatively, you can launch the application either from the shortcut located on the Desktop or from the `Start` menu.
 
@@ -112,7 +112,7 @@ Upon launching the PDF Viewer, a user-friendly interface for the PDF Viewer desi
 
 This section describes the basic features to get you started with the PDF Viewer.
 
-- **Navigation Pane**: It is situated on the left side and provides a table of contents of the document along with the thumbnails for each page for quick navigation.
+- **Navigation Pane**: It is situated on the left side of the application and provides a table of contents of the document along with the thumbnails for each page for quick navigation.
 - **Toolbar**: It contains all the tools required for interacting with the PDF document. Each tool has multiple options, which can be viewed by hovering the cursor over the desired tool.
   Icons for tools, such as, opening a PDF file, zooming, and page navigation are easily available.
 - **Viewing Options**: Various viewing options, such as, continuous scroll, single page view, and full-screen mode are available on the `Toolbar`.
@@ -133,19 +133,19 @@ The following are the ways to access the help resources for the PDF Viewer:
   3. Click on the `Help` menu option.
   4. Open the `In-App User Manual` from the `Help` option. 
 - **Online Documentation and FAQs**: The PDF Viewer's online documentation provides a comprehensive collection of frequently asked questions (FAQs) that address common inquiries and troubleshooting scenarios.
-The online documentation offers a detailed overview of the features, user scenarios, and advanced techniques to efficiently interact with the PDF Viewer. It contains FAQs that are meticulously curated, to provide concise and targeted solutions to prevalent questions users encounter during installation and application usage. Each FAQ is structured to swiftly guide you to answers, ensuring a smooth experience with PDF Viewer.
+The online documentation offers a detailed overview of the features, user scenarios, and advanced techniques to efficiently interact with the PDF Viewer. It contains FAQs that provide concise and targeted solutions to relevant questions users encounter during installation and application usage. Each FAQ is structured to guide you to answers, ensuring a smooth experience with the PDF Viewer.
 
   The following are the steps to access the online documentation and FAQs.
    1. Open any web browser of your choice and navigate to [PDF Viewer](www.pdfviewer.com).
    2. Navigate to the `Support` section.
    3. Click `Documentation and FAQs` to access the online documentation for the PDF Viewer.
-- **Online User Community**: The PDF Viewer has an active online user community where enthusiasts, experts, developers, and simply anyone using digital documents gather to exchange insights, share experiences,  troubleshoot issues collaboratively, and provide real world solutions.
+- **Online User Community**: The PDF Viewer has an active online user community where enthusiasts, experts, developers, and simply anyone using digital documents gather to exchange insights, share experiences,  troubleshoot issues collaboratively, and provide real-world solutions.
 
   The following are the steps to access the online user community.
    1. Open any web browser of your choice and navigate to [PDF Viewer](www.pdfviewer.com).
    2. Navigate to the `Support` section.
    3. Click `Community and Forum`, which directs you to the community platform.
-   4. You can participate in the community by posting queries, contibuting your knowledge, and joining discussions.
+   4. You can participate in the community by posting queries, contributing your knowledge, and joining discussions.
 
 ## Common Troubleshooting Scenarios
 
