@@ -83,9 +83,18 @@ The PDF Viewer application is successfully installed.
 This section describes how to uninstall the PDF Viewer application from a Windows platform.
 
 To uninstall the PDF Viewer from a Windows platform:
-1. 
+1. Click `Start` and navigate to the `Control Panel`. The `Control Panel` window appears.
+2. Navigate to `Programs and Features` and click `Uninstall a Program`. A list of all the programs installed on your system appears.
+3. Select the PDF Viewer application from the list of installed programs.
+4. Click `Uninstall`. A confirmation prompt appears.
+5. If you want to continue with the uninstallation, then click `Yes` else click `No` to abort the uninstallation.
+6. Check for any residual files at the location where the application was installed. Delete the files manually, if any.
 
+ The PDF Viewer application is uninstalled successfully.
 
+ > For any assistance regarding the installation or uninstallation of the PDF Viewer application, refer to [Support for PDF Viewer](www.support.pdfviewer.com).
+
+   
 ## Get Started with PDF Viewer
 
 After the successful installation of the PDF Viewer application, you can explore its features and enhanced functionalities mainly for annotating, visualizing, and distributing PDF documents.
