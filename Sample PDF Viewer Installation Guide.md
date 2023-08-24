@@ -92,7 +92,7 @@ To uninstall the PDF Viewer from a Windows platform:
 
  The PDF Viewer application is uninstalled successfully.
 
- > For any assistance regarding the installation or uninstallation of the PDF Viewer application, refer to [Support for PDF Viewer](www.support.pdfviewer.com).
+ > For any assistance regarding the installation or uninstallation of the PDF Viewer application, refer to [Support for PDF Viewer](www.pdfviewer.com/support).
 
    
 ## Get Started with PDF Viewer
@@ -104,7 +104,87 @@ To start interacting with the PDF Viewer:
 1. If you select the option to launch the application upon its successful installation, then the PDF Viewer will promptly launch with any manual intervention.
 2. Alternatively, you can launch the application either from the shortcut located on the Desktop or from the `Start` menu.
 
-> For more information about the functionalities and usage of the PDF Viewer application, refer to [PDF Viewer Documentation](www.documentation.pdfviewer.com).
+> For detailed information about the functionalities and usage of the PDF Viewer application, refer to [PDF Viewer Documentation](www.pdfviewer.com/documentation).
+
+### Exploring PDF Viewer
+
+Upon launching the PDF Viewer, a user-friendly interface for the PDF Viewer designed for efficient PDF document interactions appears.
+
+This section describes the basic features to get you started with the PDF Viewer.
+
+- **Navigation Pane**: It is situated on the left side and provides a table of contents of the document along with the thumbnails for each page for quick navigation.
+- **Toolbar**: It contains all the tools required for interacting with the PDF document. Each tool has multiple options, which can be viewed by hovering the cursor over the desired tool.
+  Icons for tools, such as, opening a PDF file, zooming, and page navigation are easily available.
+- **Viewing Options**: Various viewing options, such as, continuous scroll, single page view, and full-screen mode are available on the `Toolbar`.
+- **Zoom**: The `zoom-in` and `zoom-out` options are available to change the magnification level of the PDF document.
+- **Search**: The enhanced search bar is located on the `Toolbar`. It is used to easily locate specific words in the entire document using the exact word(s) or approximate phrases.
+- **Bookmarks**: Use the `Bookmarks` option to mark specific pages or sections for easy access. You can create bookmarks and manage them using the bookmark panel.
+
+### Accessing Help Resources
+
+The PDF Viewer offers both in-app help resources and online documentation to enhance your understanding of its features and functionalities. 
+
+The following are the ways to access the help resources for the PDF Viewer:
+- **In-app User Manual**: The `In-App User Manual` provides detailed documentation on every feature, tool, and functionality of the PDF Viewer. This manual provides detailed instructions, usage scenarios, and advanced tips for making the most of the PDF Viewer's capabilities.
+
+  The following are the steps to access the `In-App User Manual`.
+  1. Launch the PDF Viewer application.
+  2. Navigate to the `Toolbar` at the top of the application.
+  3. Click on the `Help` menu option.
+  4. Open the `In-App User Manual` from the `Help` option. 
+- **Online Documentation and FAQs**: The PDF Viewer's online documentation provides a comprehensive collection of frequently asked questions (FAQs) that address common inquiries and troubleshooting scenarios.
+The online documentation offers a detailed overview of the features, user scenarios, and advanced techniques to efficiently interact with the PDF Viewer. It contains FAQs that are meticulously curated, to provide concise and targeted solutions to prevalent questions users encounter during installation and application usage. Each FAQ is structured to swiftly guide you to answers, ensuring a smooth experience with PDF Viewer.
+
+  The following are the steps to access the online documentation and FAQs.
+   1. Open any web browser of your choice and navigate to [PDF Viewer](www.pdfviewer.com).
+   2. Navigate to the `Support` section.
+   3. Click `Documentation and FAQs` to access the online documentation for the PDF Viewer.
+- **Online User Community**: The PDF Viewer has an active online user community where enthusiasts, experts, developers, and simply anyone using digital documents gather to exchange insights, share experiences,  troubleshoot issues collaboratively, and provide real world solutions.
+
+  The following are the steps to access the online user community.
+   1. Open any web browser of your choice and navigate to [PDF Viewer](www.pdfviewer.com).
+   2. Navigate to the `Support` section.
+   3. Click `Community and Forum`, which directs you to the community platform.
+   4. You can participate in the community by posting queries, contibuting your knowledge, and joining discussions.
+
+## Common Troubleshooting Scenarios
+
+This section describes how to troubleshoot the common issues that you might encounter while using the PDF Viewer application and how to seek assistance.
+
+### Addressing Issues
+
+The following are the steps to troubleshoot some common issues encountered with the PDF Viewer application.
+
+- **Performance issues**: 
+    1. Ensure that the latest version of the PDF Viewer is installed.
+    2. Close any unnecessary and resource-intensive applications to free up the system resources.
+    3. Clear the caches and temporary files from your system.
+
+- **Application crashes**:
+    1. If the PDF Viewer unexpectedly crashes, then close and relaunch the application.
+    2. If the application continues to crash, then restart your system.
+
+- **Compatibility issues**:
+    1. Verify if your system is compatible with the installed version of the PDF Viewer.
+    2. Refer the [Documentation](www.pdfviewer.com/documentation) and [Release Notes](www.pdfviewer.com/releasenotes) for any known compatibility issues.
+    3. If the issue persists, then you can re-install the application.
+
+### Seeking Support Online
+
+If troubleshooting independently is providing unsatisfactory results, then you can seek assistance online using the following ways.
+
+- **Official Website Support**:
+    1. Open any web browser of your choice and navigate to [PDF Viewer](www.pdfviewer.com).
+    2. Navigate to the `Support` section.
+    3. Use the available resources like FAQs, user manuals, and community discussions for resolutions.
+
+- **Contacting Application Support**:
+    1. Open any web browser of your choice and navigate to [PDF Viewer](www.pdfviewer.com).
+    2. Navigate to the `Support` section.
+    3. Locate the email and chat contact details.
+    4. Reach out to the Support team with a detailed description of the issue you are facing.
+
+
 
 
 
