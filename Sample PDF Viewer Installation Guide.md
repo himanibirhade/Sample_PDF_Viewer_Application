@@ -129,7 +129,7 @@ The following are the ways to access the help resources for the PDF Viewer:
 
   The following are the steps to access the `In-App User Manual`.
   1. Launch the PDF Viewer application.
-  2. Navigate to the `Toolbar` at the top of the application.
+  2. Navigate to the `Toolbar` located at the top of the application.
   3. Click on the `Help` menu option.
   4. Open the `In-App User Manual` from the `Help` option. 
 - **Online Documentation and FAQs**: The PDF Viewer's online documentation provides a comprehensive collection of frequently asked questions (FAQs) that address common inquiries and troubleshooting scenarios.
