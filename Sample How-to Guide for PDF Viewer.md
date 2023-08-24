@@ -28,6 +28,7 @@ This section describes how to install and setup the PDF Viewer application on a 
 
 This section describes how to download the installer for the PDF Viewer.
 
+To download the installer:
 1. Navigate to the [official website](www.pdfviewer.com) of the PDF Viewer.
 2. Click on the `Download` option.
 3. The download begins automatically. Wait for the download to complete.
@@ -49,9 +50,10 @@ This section describes the various elements of the PDF Viewer interface.
 
 ### Toolbar 
 
-The `toolbar` is a central element of the PDF Viewer interface, that hosts a collection of icons representing different tools and functionalities. Each icon corresponds to a specific action, thereby enhancing your ability to interact with PDF documents efficiently.
+The `toolbar` is a central element of the PDF Viewer interface that hosts a collection of icons representing different tools and functionalities. Each icon corresponds to a specific action, thereby enhancing your ability to interact with PDF documents efficiently.
 
 The following are the various tools available on the `toolbar`:
+
 - **Open Document Icon**: This icon resembles a folder and denotes the option to open PDF files. Clicking on it prompts a file explorer window from where you can select the PDF document you wish to view.
 
 - **Zoom Icons**: The magnifying glass icons allow you to adjust the document's magnification. The `+` icon zooms in, while the `-` icon zooms out. You can modify the magnification to suit your viewing preference.
@@ -64,14 +66,13 @@ The following are the various tools available on the `toolbar`:
 
 - **Tools for Annotations**: Icons such as highlighter, underline, and text annotation tools enable you to enhance the appearance of the document.
 
-- **Additional Tools**: Depending on the PDF Viewer version, you might find icons for features such as drawing and shape annotations.
-
 - **Settings and Preferences**: This icon resembling gears, provides access to the application settings and preferences.
 
 ### Navigation Pane
-The `navigation pane` is located on the left side of the interface. It serves as a convenient tool for traversing the PDF document.
+The `navigation pane` is located on the left side of the application interface. It serves as a convenient tool for traversing the PDF document.
 
 The following are the various tools available on the `navigation pane`:
+
 - **Thumbnail Previews**: The thumbnail previews of each page in the document are located within the `navigation pane`. These thumbnails provide a visual overview of the contents of the document.
 
 - **Quick Navigation**: This feature enables you to quickly navigate to the desired page by clicking on the thumbnail.
@@ -84,7 +85,7 @@ The PDF Viewer provides various viewing modes and preferences that cater to diff
 
 The following are the various viewing modes provided by the PDF Viewer:
 
-- **Single Page View**: This mode offers a focused reading experience by displaying one page at a time. The arrow icons or navigation options are used to move between pages.
+- **Single Page View**: This mode offers a focused reading experience by displaying one page at a time. The navigation options are used to move between pages.
 
 - **Continuous Scroll**: This mode displays the document on a single scroll, resembling a webpage. Scroll vertically to navigate through the document seamlessly.
 
@@ -92,24 +93,24 @@ The following are the various viewing modes provided by the PDF Viewer:
 
 - **Zooming**: The `zoom` icons on the `toolbar` adjust the magnification of the document. Click on the `+` icon to zoom in and click on the `-` to zoom out. 
 
-- **Page Layout**: The PDF Viewer offers options to modify the page layout as a single-page view and two-page view. 
+- **Page Layout**: The PDF Viewer enables you to modify the page layout as a single-page view and two-page view. 
 
-- **Customization**: The PDF Viewer provides options to customize the interface color, contrast, and background, ensuring optimal readability.
+- **Customization**: The PDF Viewer enables you to customize the application interface color, contrast, and background according to your readability preference.
 
 ## Document Interaction
 
-This section guides you through these actions, ensuring a seamless and productive document interaction experience.
+This section guides you through the following actions, ensuring a seamless and productive document interaction experience.
 
 ### Opening PDF Files
 
 Opening PDF files is the fundamental step to interact with their content within the PDF Viewer application.
 
-The following are the steps to open a PDF file:
-1. Launch the PDF Viewer application either by clicking on the application's desktop shortcut or by searching for it in the Start menu.
-2. In the PDF Viewer interface, locate the `Open` icon. This icon resembles a folder or document, signifying the action to open files.
-3. Click the `Open` icon. The file explorer window appears. Navigate to the directory where the desired PDF file is located. 
+To open a PDF file:
+1. Launch the PDF Viewer application either by clicking on the application's desktop shortcut or by searching for it in the `Start` menu.
+2. In the PDF Viewer interface, locate the `Open` icon. 
+3. Click the `Open` icon. The `File Explorer` window appears. Navigate to the directory where the desired PDF file is located. 
 4. Browse through the folders and select the PDF file you wish to open. Click on the file to highlight it.
-5. After selecting the PDF file, click the `Open` button within the file explorer window. The selected PDF document will now open within the PDF Viewer interface.
+5. After selecting the PDF file, click the `Open` button within the `File Explorer` window. The selected PDF document will now open within the PDF Viewer interface.
 
 ### Zoom Functionality
 
@@ -128,21 +129,22 @@ The following are the various options available in the Zoom functionality:
 ### Text Selection and Copying
 Selecting and copying text from a PDF document allows you to extract information or reference content.
 
-The following are the steps to select and copy the text:
+To select and copy text:
 1. Click and hold your cursor at the start of the desired text to select it. Drag the mouse cursor over the text you want to choose while continuing to hold the mouse button. The selected text is highlighted.
-2. After selecting the desired text, right-click on the highlighted portion. From the context menu that appears, click the `Copy` option. The selected text is now copied to your clipboard.
-3. Open another application, such as a word processor or text editor, and right-click within the application. Choose the `Paste` option to paste the copied text.
-4. Keep in mind that copying text from a PDF document retains the document's formatting. Adjust the formatting as desired in the destination application.
+2. After selecting the desired text, right-click on the highlighted portion. Click the `Copy` option from the context menu. The selected text is now copied to your clipboard.
+3. Open another application, such as a word processor or text editor, and right-click within the application. Click the `Paste` option from the context menu to paste the copied text.
+
+> Keep in mind that copying text from a PDF document retains the document's formatting. Adjust the formatting as desired in the destination application.
 
 ## Annotations and Markups
 
-Annotations and markups improve your PDF document interactions by enabling you to highlight important information, add notes, and make visual enhancements. The PDF Viewer application offers a range of annotation tools that help with effective communication and organization of information within documents.
+Annotations and markups improve your PDF document interactions by enabling you to highlight important information, add notes, and make visual enhancements. The PDF Viewer application offers a range of annotation tools that help with effective communication and organization of information within PDF documents.
 
 ### Highlighting and Underlining
 
 Highlighting and underlining are valuable techniques for emphasizing specific content within a PDF document.
 
-The following are the steps to highlight and underline content:
+To highlight and underline content:
 1. Select the `Highlight` tool from the `toolbar` to highlight the content. This tool typically resembles a highlighter pen icon.
 2. Click and drag your cursor over the content you want to highlight. Upon releasing the mouse button, the selected content will be highlighted in a color that stands out against the document's background.
 3. You can change the highlight color by accessing the tool settings.
@@ -153,7 +155,7 @@ The following are the steps to highlight and underline content:
 
 Text annotations allow you to insert notes and comments directly within the PDF document.
 
-The following are the steps to add text annotations:
+To add text annotation:
 1. Select the `Add Text` tool in the `toolbar`. It is denoted by `T`.
 2. Click within the document at the location where you want to insert the text annotation. A text box appears, ready for your input.
 3. Type your annotation within the text box. You can resize the text box by clicking and dragging its corners.
@@ -168,13 +170,13 @@ The PDF Viewer offers advanced features that go beyond basic document viewing an
 
 Interactive forms in PDF documents offer a convenient approach to collecting and inputting data directly within the document itself.
 
-The following are the steps to fill out the forms.
- 1. Open a PDF document containing an interactive form using the PDF Viewer.
+To fill out a form:
+ 1. Open a PDF document containing an interactive form.
  2. Navigate to the `form` fields, which include text fields, radio buttons, checkboxes, and drop-down lists.
  3. Click on a `form` field to select it. You can then type your input or make selections based on the type of field.
  4. Move between form fields using the `Tab` key on your keyboard or by clicking on the desired field.
  5. Click `Save` to retain the changes.
- 6. You can print the form or share it digitally after saving all the changes.
+ 6. You can print the form or digitally share it after saving all the changes.
 
 ### Splitting and Merging PDFs
 
@@ -182,8 +184,8 @@ The PDF Viewer enables you to split and merge PDF documents, which is useful for
 
 #### Splitting PDFs
 
-The following are the steps the split a PDF.
-1. Open the PDF document you wish to split.
+To split a PDF document:
+1. Open a PDF document you wish to split.
 2. Navigate to the `Document` menu.
 3. Choose the `Split` function.
 4. Specify the range of pages you want to split into a new PDF.
@@ -191,11 +193,11 @@ The following are the steps the split a PDF.
 
 #### Merging PDFs
 
-The following are the steps to merge the PDFs.
+To merge the PDF document:
 1. Open the PDF Viewer application.
 2. Navigate to the `File` menu.
 3. Choose the `Merge` function.
-4. Select the PDF files you want to merge and arrange them in the desired order.
+4. Select the PDF documents you want to merge and arrange them in the desired order.
 5. Choose a destination folder for the merged PDF and save it.
 
 ### Optimizing PDF Document Management
@@ -204,7 +206,7 @@ Effective management of PDF documents includes features, such as, bookmarks, tab
 
 #### Bookmarks
 
-The following are the steps to add a bookmark.
+To add a bookmark:
 1. Open the PDF document where you want to add a bookmark.
 2. Navigate to the page you want to bookmark.
 3. Click the `Add Bookmark` option from the `View` menu.
@@ -213,16 +215,66 @@ The following are the steps to add a bookmark.
 
 #### Table of Contents
 
-The following are the steps to access the table of contents.
+To access the table of contents:
 1. If the PDF document contains a table of contents, then you can use the navigation pane to access it.
 2. Click on the entries within the table of contents to navigate to specific sections of the document.
 
 #### Document Properties:
 
-The following are the steps to access the document properties.
+To access the document properties:
 1. Navigate to the `File` menu and select `Properties`.
 2. In the `Properties` dialog box, you can view metadata about the PDF document, such as, title, author, and creation date.
 3. You can edit the document properties if required.
+
+## Troubleshooting and Support
+
+This section describes the common issues that you might encounter while using the PDF Viewer and provides guidance on resolving them. Additionally, it outlines how to seek support when you need assistance beyond what this guide offers.
+
+### Common Issues and Solutions
+
+The following are some common issues you might face and their resolutions.
+
+- **PDF Doesn't Open**:
+  - Ensure the PDF file is not corrupted or damaged.
+  - Try opening other PDF files to determine if the issue is specific to the file.
+
+- **Application Crashes**:
+  - Ensure the latest version of the application is installed.
+  - If the issue persists, check if your system meets the application's system requirements.
+
+- **Slow Performance**:
+  - Close any unnecessary and resource-intensive applications running in the background to free up system resources.
+  - Ensure your system meets or exceeds the minimum requirements for the application.
+  - Update your system's drivers, mainly the graphics drivers, for optimal performance.
+  - Clear the caches and temporary files from your system.
+
+- **Annotations Not Saving**:
+  - Verify if you have the permission to modify the PDF document. Some PDF documents might have security settings that prevent changes.
+  - Ensure you are using the latest version of the PDF Viewer application. Updates often address issues with annotation saving.
+
+- **Search Function Not Working**:
+  - Verify if you are using the correct keywords. Some PDFs might have text that is unsearchable due to image-based content.
+  - Check for updates to the PDF Viewer application. Search functionality improvements could be included in updates.
+
+- **PDF Rendering Issues**:
+  - If you are experiencing PDF rendering issues, such as missing text or distorted images, then try reopening the PDF.
+  - Check if the issue persists with other PDF documents. If it is specific to one document, then the file might be the problem.
+
+### Contacting Support
+If troubleshooting independently is providing unsatisfactory results, then you can seek assistance online using the following ways.
+
+- **Official Website Support**:
+    1. Open any web browser of your choice and navigate to [PDF Viewer](www.pdfviewer.com).
+    2. Navigate to the `Support` section.
+    3. Use the available resources like FAQs, user manuals, and community discussions for resolutions.
+
+- **Contacting Application Support**:
+    1. Open any web browser of your choice and navigate to [PDF Viewer](www.pdfviewer.com).
+    2. Navigate to the `Support` section.
+    3. Locate the email and chat contact details.
+    4. Reach out to the Support team with a detailed description of the issue you are facing.
+
+
 
 
 
