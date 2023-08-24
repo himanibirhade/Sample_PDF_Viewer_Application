@@ -1,3 +1,4 @@
-# PDF Viewer Installation Guide
+# PDF Viewer Application Documentation
 
-This is an installation guide for a sample PDF Viewer application installation on a Windows platform.
+This repository contains the documentation for the PDF Viewer application on the Windows platform.
+
