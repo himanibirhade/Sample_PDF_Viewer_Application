@@ -122,7 +122,7 @@ The following are the various options available in the Zoom functionality:
 
 - **Zoom Out**: Click on the `-` icon in the `toolbar` to zoom out from the specific parts of the document. It decreases the magnification of the document. 
 
-- **Zoom Slider**: Alternatively, you can use the zoom slider located on the toolbar to modify the magnification. Drag the slider to the right to zoom in and to the left to zoom out.
+- **Zoom Slider**: Alternatively, you can use the zoom slider located on the toolbar to modify the magnification. Drag the slider to the right side to zoom in and to the left side to zoom out.
 
 - **Fit to Page**: Click the `Fit to Page` option to adjust the magnification of the document to fit the entire page within the application window.
 
@@ -131,7 +131,7 @@ Selecting and copying text from a PDF document allows you to extract information
 
 To select and copy text:
 1. Click and hold your cursor at the start of the desired text to select it. Drag the mouse cursor over the text you want to choose while continuing to hold the mouse button. The selected text is highlighted.
-2. After selecting the desired text, right-click on the highlighted portion. Click the `Copy` option from the context menu. The selected text is now copied to your clipboard.
+2. After selecting the desired text, right-click on the highlighted portion. Click the `Copy` option from the context menu, which copies the selected text to your clipboard.
 3. Open another application, such as a word processor or text editor, and right-click within the application. Click the `Paste` option from the context menu to paste the copied text.
 
 > Keep in mind that copying text from a PDF document retains the document's formatting. Adjust the formatting as desired in the destination application.
@@ -158,7 +158,7 @@ Text annotations allow you to insert notes and comments directly within the PDF 
 To add text annotation:
 1. Select the `Add Text` tool in the `toolbar`. It is denoted by `T`.
 2. Click within the document at the location where you want to insert the text annotation. A text box appears, ready for your input.
-3. Type your annotation within the text box. You can resize the text box by clicking and dragging its corners.
+3. Type your annotation within the text box. If required, you can resize the text box by clicking and dragging its corners.
 4. You can format the text within the annotation by accessing the formatting tools to adjust font style, size, color, and alignment.
 5. You can move the annotation to a different location within the document. The PDF Viewer allows you to delete annotations by selecting them and choosing the `Delete` option from the context menu.
 
@@ -239,7 +239,7 @@ The following are some common issues you might face and their resolutions.
   - Try opening other PDF files to determine if the issue is specific to the file.
 
 - **Application Crashes**:
-  - Ensure the latest version of the application is installed.
+  - Ensure the latest version of the PDF Viewer application is installed.
   - If the issue persists, check if your system meets the application's system requirements.
 
 - **Slow Performance**:
