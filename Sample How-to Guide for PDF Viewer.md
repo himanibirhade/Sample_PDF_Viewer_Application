@@ -115,7 +115,7 @@ The following are the steps to open a PDF file:
 
 When reading a PDF file, zooming in and out is crucial for looking at specifics or gaining an overview of the content.
 
-The following are the various options available in the zoom functionality:
+The following are the various options available in the Zoom functionality:
 
 - **Zoom In**: Click on the `+` icon in the `toolbar` to zoom in on the specific parts of the document. It increases the magnification of the document. 
 
@@ -132,5 +132,98 @@ The following are the steps to select and copy the text:
 1. Click and hold your cursor at the start of the desired text to select it. Drag the mouse cursor over the text you want to choose while continuing to hold the mouse button. The selected text is highlighted.
 2. After selecting the desired text, right-click on the highlighted portion. From the context menu that appears, click the `Copy` option. The selected text is now copied to your clipboard.
 3. Open another application, such as a word processor or text editor, and right-click within the application. Choose the `Paste` option to paste the copied text.
-4. Keep in mind that copying text from a PDF document retains the formatting of the document. Adjust the formatting as desired in the destination application.
+4. Keep in mind that copying text from a PDF document retains the document's formatting. Adjust the formatting as desired in the destination application.
+
+## Annotations and Markups
+
+Annotations and markups improve your PDF document interactions by enabling you to highlight important information, add notes, and make visual enhancements. The PDF Viewer application offers a range of annotation tools that help with effective communication and organization of information within documents.
+
+### Highlighting and Underlining
+
+Highlighting and underlining are valuable techniques for emphasizing specific content within a PDF document.
+
+The following are the steps to highlight and underline content:
+1. Select the `Highlight` tool from the `toolbar` to highlight the content. This tool typically resembles a highlighter pen icon.
+2. Click and drag your cursor over the content you want to highlight. Upon releasing the mouse button, the selected content will be highlighted in a color that stands out against the document's background.
+3. You can change the highlight color by accessing the tool settings.
+4. You can remove highlights by clicking on the highlighted text and selecting the `Remove Highlight` option from the context menu.
+5. Similar to highlighting, underlining emphasizes text. Select the `Underline` tool from the `toolbar` and apply it to the desired text by clicking and dragging your cursor.
+
+### Adding Text Annotations
+
+Text annotations allow you to insert notes and comments directly within the PDF document.
+
+The following are the steps to add text annotations:
+1. Select the `Add Text` tool in the `toolbar`. It is denoted by `T`.
+2. Click within the document at the location where you want to insert the text annotation. A text box appears, ready for your input.
+3. Type your annotation within the text box. You can resize the text box by clicking and dragging its corners.
+4. You can format the text within the annotation by accessing the formatting tools to adjust font style, size, color, and alignment.
+5. You can move the annotation to a different location within the document. The PDF Viewer allows you to delete annotations by selecting them and choosing the `Delete` option from the context menu.
+
+## Advanced Functions
+
+The PDF Viewer offers advanced features that go beyond basic document viewing and interaction. These functions enable you to perform tasks, such as, filling out forms, splitting and merging PDFs, and optimizing their PDF document management. 
+
+### Filling out Interactive Forms
+
+Interactive forms in PDF documents offer a convenient approach to collecting and inputting data directly within the document itself.
+
+The following are the steps to fill out the forms.
+ 1. Open a PDF document containing an interactive form using the PDF Viewer.
+ 2. Navigate to the `form` fields, which include text fields, radio buttons, checkboxes, and drop-down lists.
+ 3. Click on a `form` field to select it. You can then type your input or make selections based on the type of field.
+ 4. Move between form fields using the `Tab` key on your keyboard or by clicking on the desired field.
+ 5. Click `Save` to retain the changes.
+ 6. You can print the form or share it digitally after saving all the changes.
+
+### Splitting and Merging PDFs
+
+The PDF Viewer enables you to split and merge PDF documents, which is useful for the effective management and organization of your PDF documents. 
+
+#### Splitting PDFs
+
+The following are the steps the split a PDF.
+1. Open the PDF document you wish to split.
+2. Navigate to the `Document` menu.
+3. Choose the `Split` function.
+4. Specify the range of pages you want to split into a new PDF.
+5. Select the destination folder for the new PDF file and save it.
+
+#### Merging PDFs
+
+The following are the steps to merge the PDFs.
+1. Open the PDF Viewer application.
+2. Navigate to the `File` menu.
+3. Choose the `Merge` function.
+4. Select the PDF files you want to merge and arrange them in the desired order.
+5. Choose a destination folder for the merged PDF and save it.
+
+### Optimizing PDF Document Management
+
+Effective management of PDF documents includes features, such as, bookmarks, table of contents, and document properties.
+
+#### Bookmarks
+
+The following are the steps to add a bookmark.
+1. Open the PDF document where you want to add a bookmark.
+2. Navigate to the page you want to bookmark.
+3. Click the `Add Bookmark` option from the `View` menu.
+4. Enter a descriptive name for the bookmark.
+5. Repeat these steps for each page you want to bookmark.
+
+#### Table of Contents
+
+The following are the steps to access the table of contents.
+1. If the PDF document contains a table of contents, then you can use the navigation pane to access it.
+2. Click on the entries within the table of contents to navigate to specific sections of the document.
+
+#### Document Properties:
+
+The following are the steps to access the document properties.
+1. Navigate to the `File` menu and select `Properties`.
+2. In the `Properties` dialog box, you can view metadata about the PDF document, such as, title, author, and creation date.
+3. You can edit the document properties if required.
+
+
+
 
