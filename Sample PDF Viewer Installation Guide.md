@@ -51,6 +51,7 @@ Ensure the following system requirements are met before installing the PDF Viewe
 This section describes how to download the installer for the PDF Viewer.
 
 To download the installer:
+
 1. Open any web browser of your choice.
 2. Navigate to the [official website](www.pdfviewer.com) of the PDF Viewer.
 3. Click on the `Download` option.
@@ -62,6 +63,7 @@ To download the installer:
 This section describes how to run the installer for the PDF Viewer.
 
 To run the PDF Viewer installer:
+
 1. Navigate to the folder where the `PDFViewerInstaller.exe` installer was downloaded.
 2. Run the `PDFViewerInstaller.exe` file. The `Welcome to the PDF Viewer Installation Wizard` screen appears.
 
@@ -70,6 +72,7 @@ To run the PDF Viewer installer:
 This section describes how to configure the installation settings.
 
 To configure the installation settings:
+
 1. Click `Start` on the  `Welcome to the PDF Viewer Installation Wizard` screen.
    The `End User License Agreement (EULA)` screen appears.
 2. If you agree to the terms and conditions, then click the `Accept` button to proceed with the configurations of installation settings.
@@ -92,6 +95,7 @@ The PDF Viewer application is successfully installed.
 This section describes how to uninstall the PDF Viewer application from a Windows platform.
 
 To uninstall the PDF Viewer from a Windows platform:
+
 1. Click `Start` and navigate to the `Control Panel` option. The `Control Panel` window appears.
 2. Navigate to `Programs and Features` and click `Uninstall a Program`. A list of all the programs installed on your system appears.
 3. Select the PDF Viewer application from the list of installed programs.
@@ -110,10 +114,12 @@ After the successful installation of the PDF Viewer application, you can explore
 This section describes how to start interacting with the PDF Viewer application after its successful installation.
 
 To launch the PDF Viewer:
+
 1. If you select the option to launch the application upon its successful installation, then the PDF Viewer will promptly launch with any manual intervention.
 2. Alternatively, you can launch the application either from the shortcut located on the Desktop or from the `Start` menu.
 
 > For detailed information about how to interact the PDF Viewer application, refer to [How-to Guide for PDF Viewer](https://github.com/himanibirhade/Sample_PDF_Viewer_Application/blob/031b924139dc0f09be1df154f59764de46f0f351/Sample%20How-to%20Guide%20for%20PDF%20Viewer.md).
+
 > For detailed information about the functionalities of the PDF Viewer application, refer to [PDF Viewer Online Documentation](www.pdfviewer.com/support/documentation)
 
 ### Exploring PDF Viewer
@@ -134,6 +140,7 @@ The following are the basic features to get you started with the PDF Viewer:
 The PDF Viewer offers both in-app help resources and online documentation to enhance your understanding of its features and functionalities. 
 
 The following are the ways to access the help resources for the PDF Viewer:
+
 - **In-app User Manual**: The `In-App User Manual` provides detailed documentation on every feature, tool, and functionality of the PDF Viewer. This manual provides detailed instructions, usage scenarios, and advanced tips for making the most of the PDF Viewer's capabilities.
 
   To access the `In-App User Manual`:
@@ -144,7 +151,7 @@ The following are the ways to access the help resources for the PDF Viewer:
 
 - **Online Documentation and FAQs**: The PDF Viewer's online documentation provides a comprehensive collection of frequently asked questions (FAQs) that address common questions and troubleshooting scenarios. 
 
-The online documentation offers a detailed overview of the features, user scenarios, and advanced techniques to efficiently interact with the PDF Viewer. It contains FAQs that provide concise and targeted solutions to relevant questions users encounter during installation and application usage. Each FAQ is structured to guide you to answers, ensuring a smooth experience with the PDF Viewer.
+   The online documentation offers a detailed overview of the features, user scenarios, and advanced techniques to efficiently interact with the PDF Viewer. It contains FAQs that provide concise and targeted solutions to relevant questions users encounter during installation and application usage. Each FAQ is structured to guide you to answers, ensuring a smooth experience with the PDF Viewer.
 
   To access the online documentation and FAQs:
    1. Open any web browser of your choice and navigate to [PDF Viewer](www.pdfviewer.com).
