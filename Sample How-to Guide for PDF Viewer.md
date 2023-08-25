@@ -16,7 +16,7 @@ This guide caters to a diverse audience, including students, professionals, and 
 
 ### Scope
 
-This guide covers the entire range of the PDF Viewer application usage, from installation and initial setup to advanced document-related functions. By following this guide, users will be able to confidently navigate the application's interface, interact with PDF documents, and successfully use additional capabilities.
+This guide covers the entire range of the PDF Viewer application usage, from installation and initial setup to advanced document-related functions. By following this guide, you will be able to confidently navigate the application's interface, interact with PDF documents, and successfully use additional capabilities.
 
 ## Installation and Setup
 
@@ -69,6 +69,7 @@ The following are the various tools available on the `toolbar`:
 - **Settings and Preferences**: This icon resembling gears, provides access to the application settings and preferences.
 
 ### Navigation Pane
+
 The `navigation pane` is located on the left side of the application interface. It serves as a convenient tool for traversing the PDF document.
 
 The following are the various tools available on the `navigation pane`:
@@ -134,7 +135,7 @@ To select and copy text:
 2. After selecting the desired text, right-click on the highlighted portion. Click the `Copy` option from the context menu, which copies the selected text to your clipboard.
 3. Open another application, such as a word processor or text editor, and right-click within the application. Click the `Paste` option from the context menu to paste the copied text.
 
-> Keep in mind that copying text from a PDF document retains the document's formatting. Adjust the formatting as desired in the destination application.
+> Copying text from a PDF document retains the document's formatting. You can adjust the formatting as desired in the destination application.
 
 ## Annotations and Markups
 
@@ -217,7 +218,7 @@ To add a bookmark:
 
 To access the table of contents:
 1. If the PDF document contains a table of contents, then you can use the navigation pane to access it.
-2. Click on the entries within the table of contents to navigate to specific sections of the document.
+2. Click on the entries within the table of contents to navigate to specific sections of the PDF document.
 
 #### Document Properties:
 
@@ -232,7 +233,7 @@ This section describes the common issues that you might encounter while using th
 
 ### Common Issues and Solutions
 
-The following are some common issues you might face and their resolutions.
+The following are some common issues you might face and their resolutions:
 
 - **PDF Doesn't Open**:
   - Ensure the PDF file is not corrupted or damaged.
@@ -261,7 +262,8 @@ The following are some common issues you might face and their resolutions.
   - Check if the issue persists with other PDF documents. If it is specific to one document, then the file might be the problem.
 
 ### Contacting Support
-If troubleshooting independently is providing unsatisfactory results, then you can seek assistance online using the following ways.
+
+If troubleshooting independently is providing unsatisfactory results, then you can seek assistance online using the following ways:
 
 - **Official Website Support**:
     1. Open any web browser of your choice and navigate to [PDF Viewer](www.pdfviewer.com).
